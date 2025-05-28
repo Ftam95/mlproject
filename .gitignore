@@ -1,5 +1,5 @@
 # Ignore virtual environment
-venv/
+venv1/
 mlproject.egg-info/
 logs/
 # Ignore all __pycache__ directories and Python cache files
